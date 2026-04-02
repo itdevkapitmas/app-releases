@@ -3,6 +3,6 @@
   "build_number": "1",
   "force_update": false,
   "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.0.0/app-release.apk",
-  "release_notes": "- Initial release\n- QC Process feature\n- OT Checking feature",
-  "release_date": "2025-11-01T00:00:00.000Z"
+  "release_notes": "- Login\n- OT Checking (QR Scanner)\n- Pilih Server\n- Auto Update",
+  "release_date": "2026-04-02T00:00:00.000Z"
 }
