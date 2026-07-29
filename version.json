@@ -1,8 +1,9 @@
 {
-  "version": "1.2.1",
-  "build_number": "6",
+  "version": "1.2.2",
+  "build_number": "7",
   "force_update": false,
-  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.1/app-release.apk",
-  "release_notes": "- lowercase username input",
+  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.2/app-release.apk",
+  "release_notes": "- Fixed a bug where OT scan always returned 404 because service providers used isolated ApiClient instances that ignored     
+  server selection. No further action needed unless you want to test on device.",
   "release_date": "2026-04-13T09:39:14.000Z"
 }
