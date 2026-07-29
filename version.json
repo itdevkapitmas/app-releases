@@ -2,7 +2,7 @@
   "version": "1.2.6",
   "build_number": "11",
   "force_update": false,
-  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.5/app-release.apk",
+  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.6/app-release.apk",
   "release_notes": "- Fix ApiClient Isolation — 404 QR Not Found\n - Fix FormatException saat cek update\n - Fix Scale no device available\n - Fix Cancel QC masuk ke Summary\n - Fix Base URL reset setelah app ditutup\n - Fix Parameter used_by pada timbangan scale\n - UI improvement: Device Selector Dialog\n - add server badge display",
   "release_date": "2026-07-29T09:39:14.000Z"
 }
