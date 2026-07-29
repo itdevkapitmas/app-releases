@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "build_number": "9",
+  "version": "1.2.5",
+  "build_number": "10",
   "force_update": false,
-  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.4/app-release.apk",
+  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.5/app-release.apk",
   "release_notes": "- Fixed a bug where OT scan always returned 404 because service providers used isolated ApiClient instances that ignored server selection. \n- fix timbangan iot api endpoint.",
   "release_date": "2026-07-29T09:39:14.000Z"
 }
