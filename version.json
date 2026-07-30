@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
-  "build_number": "11",
+  "version": "1.2.7",
+  "build_number": "12",
   "force_update": false,
-  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.6/app-release.apk",
-  "release_notes": "- Fix ApiClient Isolation — 404 QR Not Found\n - Fix FormatException saat cek update\n - Fix Scale no device available\n - Fix Cancel QC masuk ke Summary\n - Fix Base URL reset setelah app ditutup\n - Fix Parameter used_by pada timbangan scale\n - UI improvement: Device Selector Dialog\n - add server badge display",
-  "release_date": "2026-07-29T09:39:14.000Z"
+  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.7/app-release.apk",
+  "release_notes": "Bug Fixes\n - Fix Toggle OFF tidak restore gross weight\n - Fix Re-read scale setelah plastic set menyebabkan gross weight inflated\n - Fix TextField qty plastic dibuat ulang setiap rebuild\n - UI Improvement",
+  "release_date": "2026-07-30T09:39:14.000Z"
 }
