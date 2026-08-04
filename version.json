@@ -2,7 +2,7 @@
   "version": "1.2.9",
   "build_number": "14",
   "force_update": false,
-  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.8/app-release.apk",
+  "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.9/app-release.apk",
   "release_notes": "Bug Fixes\n - Fix camera scan barcode\n - Fixed history cycle count bug",
   "release_date": "2026-08-04T10:30:14.000Z"
 }
